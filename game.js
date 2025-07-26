@@ -4,7 +4,7 @@ const apps = [
     name: "ML Manager",
     desc: "Ek app hai jo Android me installed apps ka APK bana sakta hai",
     image: "icons/mlManeger.png",
-    apk: "apps/ml.apks"
+    apk: "./apps/ml.apks"
   },
   {
     name: "YouTube",
