@@ -5,13 +5,8 @@ const apps = [
     desc: "Ek app hai jo Android me installed apps ka APK bana sakta hai",
     image: "icons/mlManeger.png",
     apk: "./apps/ml.apks"
-  },
-  {
-    name: "YouTube",
-    desc: "Watch videos and create content",
-    image: "apps/youtube.jpg",
-    apk: "apps/youtube.apk"
   }
+
   // Add more apps here
 ];
 
